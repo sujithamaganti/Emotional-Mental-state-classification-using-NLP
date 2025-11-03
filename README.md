@@ -72,7 +72,7 @@ Key insights:
 
 ## 🚀 Deployment
 
-The model was deployed using **Google Studio** for real-time inference and testing.
+The model was deployed using **Flask** for real-time inference and testing.
 
 ---
 
